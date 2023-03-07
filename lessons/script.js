@@ -29,23 +29,37 @@
 // === - сравнение типов
 
 
-let a = '55'
-console.log(a)
+// let a = '55'
+// console.log(a)
+//
+// let b = 4
+// let c = undefined
+// console.log(b * c)
+//
+// let d = 66
+// let e = '66'
+// console.log(a != b)
+//
+// let f = null
+// console.log(f)
+//
+// let g = 33
+// console.log(g)
+//
+// let k = '6'
+// let l = 6
+// console.log(k + l)
 
-let b = 4
-let c = undefined
-console.log(b * c)
 
-let d = 66
-let e = '66'
-console.log(a != b)
+let a = 'hello world'
+let b = 'great day'
+// let c = b.slice(0, 6) + a.slice(a.indexOf('w'))
 
-let f = null
-console.log(f)
+// console.log(c)
 
-let g = 33
-console.log(g)
+// console.log(a.indexOf('l'))  // находит первый попавший
+// console.log(a.lastIndexOf('l')) // находит последний индекс
+// console.log(a.replace('l', 'k')) // heklo world - меняет опр значение на другое
+// console.log(a.slice(3, 5)) // lo - вырезает
 
-let k = '6'
-let l = 6
-console.log(k + l)
+console.log()
