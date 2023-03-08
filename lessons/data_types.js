@@ -51,8 +51,8 @@
 // console.log(k + l)
 
 
-let a = 'hello world'
-let b = 'great day'
+// let a = 'hello world'
+// let b = 'great day'
 // let c = b.slice(0, 6) + a.slice(a.indexOf('w'))
 
 // console.log(c)
@@ -62,4 +62,5 @@ let b = 'great day'
 // console.log(a.replace('l', 'k')) // heklo world - меняет опр значение на другое
 // console.log(a.slice(3, 5)) // lo - вырезает
 
-console.log()
+// console.log()
+
