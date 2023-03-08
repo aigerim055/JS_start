@@ -6,7 +6,7 @@
 // let c = a.charAt(0).toUpperCase() + a.slice(1)+ ' ' + b.charAt(0).toUpperCase() + b.slice(1)
 // console.log(c)
 // SECOND VARIANT
-// let c = a.replace('h', 'H') + ' ' + b.replace('i', 'I')
+// let c = a.replace('h', 'H') + ' ' + b.replace('I', 'i')
 // console.log(c)
 
 // TASK2
