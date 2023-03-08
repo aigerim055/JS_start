@@ -3,7 +3,7 @@
 // let b = 'Ivan'
 // Hello ivan
 // FIRST VARIANT
-// let c = a.charAt(0).toUpperCase() + a.slice(1)+ ' ' + b.charAt(0).toUpperCase() + b.slice(1)
+// let c = a.charAt(0).toUpperCase() + a.slice(1)+ ' ' + b.charAt(0).toLowerCase() + b.slice(1)
 // console.log(c)
 // SECOND VARIANT
 // let c = a.replace('h', 'H') + ' ' + b.replace('I', 'i')
