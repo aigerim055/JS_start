@@ -48,3 +48,11 @@
 
 // console.log(str.split('')) // [ 'h', 'e', 'l', 'l', 'o' ]
 // console.log(str.split('').join(''))
+
+
+
+let numbers = [1, 2, 3, 4, 5, 6]
+
+// console.log(numbers.map(number => number + 1)) // проходит циклом и добавляет + 1 к каждому числу
+// console.log(numbers.map((number, index) => index))
+// console.log(numbers.filter((number, index) => number < 4))
