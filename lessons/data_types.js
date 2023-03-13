@@ -5,7 +5,7 @@
 // 3. null
 // 4. undefined
 // 5. boolean
-// 6. object
+// 6. object - обьекты и массивы
 // 7. symbol
 // 8. begin
 
@@ -64,3 +64,7 @@
 
 // console.log()
 
+
+// includes - проверяет есть ли внутри тот или иной знак
+// startwith
+// trim - убирает пробелы
